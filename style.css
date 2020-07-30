@@ -1,0 +1,38 @@
+﻿* {
+
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+
+
+body{
+
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+
+}
+
+form >input {
+	width: 76vw;
+	margin-bottom:.6rem;
+	margin-left:20px;
+	padding:5px;
+	border-radius: 10px;
+	border:none;
+ background: white;
+ font-weight:900;
+ 
+ }
+form >button {
+	padding:5px;
+	border-radius: 10px;
+	border: none;
+	color: white;
+	background: black;
+	cursor: pointer;
+	
+	
+}
